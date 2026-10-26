@@ -1,0 +1,5 @@
+*.o
+*.gch
+a.out
+Simcity
+.DS_Store
